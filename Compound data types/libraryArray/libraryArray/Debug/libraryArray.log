@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\garym\documents\c++\cplusplus.com-tutorials\program structure\libraryarray\libraryarray\source.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  libraryArray.vcxproj -> C:\Users\GaryM\Documents\c++\cplusplus.com-tutorials\Program structure\libraryArray\Debug\libraryArray.exe
+  libraryArray.vcxproj -> C:\Users\GaryM\Documents\c++\cplusplus.com-tutorials\Program structure\libraryArray\Debug\libraryArray.pdb (Partial PDB)
