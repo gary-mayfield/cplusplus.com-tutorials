@@ -1,0 +1,3 @@
+﻿  echoMachine.cpp
+echoMachine.obj : error LNK2005: _main already defined in customCountdown.obj
+C:\Users\GaryM\Documents\c++\cplusplus.com-tutorials\Program structure\ProgramStructure\Debug\ProgramStructure.exe : fatal error LNK1169: one or more multiply defined symbols found
